@@ -1,3 +1,3 @@
-document.addEventListener("DOMContentLoaded", () => {
-  // your code here
-});
+document.addEventListener("DOMContentLoaded"),()=>{
+  const taskList=new TaskList();
+}
